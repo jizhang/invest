@@ -1,0 +1,8 @@
+*.py[cod]
+*.egg-info/
+venv/
+
+# Eclipse
+.project
+.pydevproject
+.settings/
