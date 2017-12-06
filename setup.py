@@ -5,6 +5,6 @@ setup(
     packages=['okane'],
     include_package_data=True,
     install_requires=[
-        'flask',
+        'Flask',
     ],
 )
