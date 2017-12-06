@@ -1,5 +1,4 @@
 # Python
-*.py[cod]
 __pycache__
 *.egg-info/
 /venv
