@@ -2,12 +2,11 @@
 *.py[cod]
 __pycache__
 *.egg-info/
-venv/
+/venv
+/application.cfg
+/*.db*
 
 # Eclipse
 .project
 .pydevproject
 .settings/
-
-# Misc
-*.db*
