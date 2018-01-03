@@ -1,8 +1,6 @@
-お金 Money Management System
-===
+# お金 Money Management System
 
-Development
----
+## Development
 
 ```bash
 python3 -m venv venv
