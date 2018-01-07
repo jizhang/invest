@@ -1,0 +1,9 @@
+Flask==0.12.2
+Flask-SQLAlchemy==2.3.2
+lxml==4.1.1
+beautifulsoup4==4.6.0
+pandas==0.21.1
+requests==2.18.4
+tushare==1.0.7
+
+-e .

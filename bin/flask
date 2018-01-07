@@ -2,4 +2,5 @@
 
 export FLASK_APP=okane
 export FLASK_DEBUG=1
-flask run
+
+flask "$@"
