@@ -2,6 +2,5 @@
 
 export FLASK_APP=okane
 export FLASK_DEBUG=1
-export OKANE_SETTINGS=../application.cfg
 
 flask "$@"
