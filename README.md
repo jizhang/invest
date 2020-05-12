@@ -1,4 +1,4 @@
-# お金 Money Management System
+# Investment Management System
 
 ## Development
 
